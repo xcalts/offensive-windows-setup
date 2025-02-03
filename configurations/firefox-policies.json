@@ -1,0 +1,30 @@
+{
+  "policies": {
+    "Extensions": {
+      "Install": [
+        "https://addons.mozilla.org/firefox/downloads/file/4412673/ublock_origin-1.62.0.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4263752/bitwarden_password_manager-2024.4.1.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4294359/proton_pass-1.17.4.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4228676/foxyproxy_standard-8.9.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4165189/simple_translate-2.8.2.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4282900/wappalyzer-6.10.69.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4427769/privacy_badger17-2025.1.29.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4392113/decentraleyes-3.0.0.xpi"
+      ]
+    },
+    "Bookmarks": [
+      {
+        "Title": "HackTricks",
+        "URL": "https://book.hacktricks.wiki/en/index.html",
+        "Placement": "toolbar",
+        "Folder": "Penetration Testing"
+      },
+      {
+        "Title": "PayloadsAllTheThings",
+        "URL": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "Placement": "toolbar",
+        "Folder": "Penetration Testing"
+      }
+    ]
+  }
+}
